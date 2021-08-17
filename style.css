@@ -5,11 +5,11 @@
 }
 
 body {
-    background-color:#ffffff;
+    background-color:whitesmoke;
 }
 
 .header {
-    padding: 30px;
+    padding: 25px;
     font-family:'Lucida Sans', Arial, sans-serif;
     background-color: salmon;
     color: #ffffff;
@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 65px;
+    font-size: 50px;
 
 }
 
