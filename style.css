@@ -35,7 +35,7 @@ body {
 }
 
 .header div ul li {
-    display: block;
+    display: inline-block;
     margin-left: 30px;
 }
 
