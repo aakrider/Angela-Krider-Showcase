@@ -5,28 +5,29 @@
 }
 
 body {
-    background-color:whitesmoke;
+    background-color:rgb(255, 240, 227);
 }
 
 .header {
-    padding: 25px;
+    padding: 30px;
     font-family:'Lucida Sans', Arial, sans-serif;
-    background-color: salmon;
+    background-color: rgb(233, 164, 118);
     color: #ffffff;
+    opacity: 50%;
 }
 
 .header h1 {
     display: inline-block;
-    font-size: 50px;
+    font-size: 80px;
 
 }
 
 .header div {
-    padding-top: 15px;
+    padding-top: 30px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .header div ul {
@@ -39,7 +40,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -48,10 +49,10 @@ p {
 }
 
 .hero {
-    height: 400px;
+    height: 500px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("gfathermtnsunset.jpg");
+    background-image: url("img/gfathermtnsunset.jpg");
     background-size: cover;
     background-position: center;
     opacity: 90%;
@@ -80,13 +81,13 @@ p {
     float: right;
     width: 35%;
     height: 100%;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(255, 240, 227);
 }
 
 .benefit-lead {
-    margin-bottom: 25px;
-    color: #ffffff;
+    margin-bottom: 10px;
+    color: #000000;
 }
 
 .benefit-brand {
@@ -102,6 +103,9 @@ p {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: #000000;
 }
 
 .benefit-brand h3 {
@@ -116,47 +120,47 @@ p {
 
 .benefit-lead img {
     display: block;
-    margin: 10px auto;
-    max-width: 150px;
+    margin: 20px auto;
+    max-width: 300px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 200px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 200px;
 }
 
 .search-engine-optimization {
     margin-bottom: 25px;
     padding: 25px;
     height: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: salmon;
-    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 240, 227);
+    color: #000000;
 }
 
 .online-reputation-management {
     margin-bottom: 25px;
     padding: 25px;
     height: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: salmon;
-    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 240, 227);
+    color: #000000;
 }
 
 .social-media-marketing {
     margin-bottom: 25px;
     padding: 25px;
     height: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: salmon;
-    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: rgb(255, 240, 227);
+    color: #000000;
 }
 
 .search-engine-optimization img {
