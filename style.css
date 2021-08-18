@@ -25,18 +25,23 @@ body {
 .header div {
     padding-top: 20px 30px;
     margin-right: 20px;
-    float: right;
+    float: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-.topnav div ul {
-    list-style-type: none;
+.topnav a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
-.topnav div ul li {
-    display: inline-block;
-    margin-left: 30px;
+.topnav div ul {
+    list-style-type: none;
+    background-color: #333;
 }
 
 /* Change color on hover */
